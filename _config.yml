@@ -1,0 +1,28 @@
+name: htntesting
+favicon: null
+layout_spectrum: 0.979750975035131
+typography_spectrum: 0.7444084838498384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8019724383484572
+  lightness: 0.7497848633211106
+  saturation: 0.5938996709883213
+  rhythmicContrast: 0.9948186662513763
+purpose: []
